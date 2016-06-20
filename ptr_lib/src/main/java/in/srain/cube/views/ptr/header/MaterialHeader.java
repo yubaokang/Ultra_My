@@ -58,7 +58,6 @@ public class MaterialHeader extends View implements PtrUIHandler {
         mScaleAnimation.setAnimationListener(new Animation.AnimationListener() {
             @Override
             public void onAnimationStart(Animation animation) {
-
             }
 
             @Override

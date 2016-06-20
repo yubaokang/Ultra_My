@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Ultra PTR</string>
+    <string name="app_name">Ultra_My</string>
     <string name="ptr_demo_block_for_home">Ultra Pull to Refresh</string>
 
     <string name="ptr_demo_block_grid_view">Contains A GridView</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Ultra PTR</string>
+    <string name="app_name">Ultra_My</string>
     <string name="ptr_demo_block_auto_fresh">自动刷新</string>
     <string name="ptr_demo_block_frame_layout">包含FrameLayout</string>
     <string name="ptr_demo_block_grid_view">包含GridView</string>
